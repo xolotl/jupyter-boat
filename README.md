@@ -7,7 +7,7 @@ Jupyter BOAT is delivered via a standard [Jupyter Lite demo](https://jupyterlite
 As with my other publications of BOAT, any rights I may have to content, code, and data created by me for Jupyter BOAT are dedicated to the public domain via [CC0 1.0](https://creativecommons.org/public-domain/cc0/). Note that this Jupyter notebook environment as a whole includes works created by others with different intellectual property statuses.
 
 ## Using BOAT
-All BOAT files other than this README.md are located in the [boat folder in this notebook](/boat/). You can modify and work with BOAT's files starting from [the notebook I published[(https://xolotl.org/jupyter-boat/)] — that's what computational notebooks are for! Or you can visit [the Jupyter BOAT GitHub reposistory](https://github.com/xolotl/jupyter-boat) and review, copy, duplicate, and/or contribute to the project.
+All BOAT files other than this README.md are located in the [boat folder in this notebook](/boat/). You can modify and work with BOAT's files starting from [the notebook I published](https://xolotl.org/jupyter-boat/) — that's what computational notebooks are for! Or you can visit [the Jupyter BOAT GitHub reposistory](https://github.com/xolotl/jupyter-boat) and review, copy, duplicate, and/or contribute to the project.
 
 All other files in this notebook are part of the standard [Jupyter Lite demo](https://jupyterlite.github.io/demo) and are only used to deliver BOAT in a Jupyter environment. If you know what you are doing, you can likely also use Jupyter BOAT either in an entirely different computational notebook or some other computing enviroment that supports python.
 
@@ -36,7 +36,7 @@ To change BOAT's output, you can modify its template.html file by doing X and Y.
 To change how BOAT combines works and ip statements to generate licensing/attribution statements using a template, you can modify its boat.ipynb file by doing X and Y. When modifying the python notebook file, it may be helpful to learn how [python](https://www.python.org/) works.
 
 ## Contribute to BOAT
-I welcome contributions to BOAT. [Add an issue[(https://github.com/xolotl/jupyter-boat/issues/new)] or [fork Jupyter BOAT](https://github.com/xolotl/jupyter-boat/fork)] and make a pull request via the Jupyter BOAT GitHub repository.
+I welcome contributions to BOAT. [Add an issue](https://github.com/xolotl/jupyter-boat/issues/new) or [fork Jupyter BOAT](https://github.com/xolotl/jupyter-boat/fork) and make a pull request via the Jupyter BOAT GitHub repository.
 
 ## Questions or suggestions?
 I welcome your inquiries and input about BOAT: [Add an issue](https://github.com/xolotl/jupyter-boat/issues/new) in the Jupyter BOAT GitHub repository or [contact me](https://xolotl.org/contact/) via my website.
