@@ -1,0 +1,61 @@
+Format,IP Status,IP Snippet
+html,ARR,is copyrighted with all rights reserved
+html,CC BY 2.0,"is licensed via <a href=""https://creativecommons.org/licenses/by/2.0/"">CC BY 2.0</a>"
+html,CC BY-NC 2.0,"is licensed via <a href=""https://creativecommons.org/licenses/by-nc/2.0/"">CC BY-NC 2.0</a>"
+html,CC BY-NC-ND 2.0,"is licensed via <a href=""https://creativecommons.org/licenses/by-nc-nd/2.0/"">CC BY-NC-ND 2.0</a>"
+html,CC BY-NC-SA 2.0,"is licensed via <a href=""https://creativecommons.org/licenses/by-nc-sa/2.0/"">CC BY-NC-SA 2.0</a>"
+html,CC BY-ND 2.0,"is licensed via <a href=""https://creativecommons.org/licenses/by-nd/2.0/"">CC BY-ND 2.0</a>"
+html,CC BY-SA 2.0,"is licensed via <a href=""https://creativecommons.org/licenses/by-sa/2.0/"">CC BY-SA 2.0</a>"
+html,CC BY 4.0,"is licensed via <a href=""https://creativecommons.org/licenses/by/4.0/"">CC BY 4.0</a>"
+html,CC BY-NC 4.0,"is licensed via <a href=""https://creativecommons.org/licenses/by-nc/4.0/"">CC BY-NC 4.0</a>"
+html,CC BY-NC-ND 4.0,"is licensed via <a href=""https://creativecommons.org/licenses/by-nc-nd/4.0/"">CC BY-NC-ND 4.0</a>"
+html,CC BY-NC-SA 4.0,"is licensed via <a href=""https://creativecommons.org/licenses/by-nc-sa/4.0/"">CC BY-NC-SA 4.0</a>"
+html,CC BY-ND 4.0,"is licensed via <a href=""https://creativecommons.org/licenses/by-nd/4.0/"">CC BY-ND 4.0</a>"
+html,CC BY-SA 4.0,"is licensed via <a href=""https://creativecommons.org/licenses/by-sa/4.0/"">CC BY-SA 4.0</a>"
+html,CC0,"is dedicated to the public domain via <a href=""https://creativecommons.org/publicdomain/zero/1.0/"">CC0</a>"
+html,PD,has no known copyright and considered to be in the public domain
+md,ARR,is copyrighted with all rights reserved
+md,CC BY 2.0,is licensed via [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+md,CC BY-NC 2.0,is licensed via [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)
+md,CC BY-NC-ND 2.0,is licensed via [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
+md,CC BY-NC-SA 2.0,is licensed via [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)
+md,CC BY-ND 2.0,is licensed via [CC BY-ND 2.0](https://creativecommons.org/licenses/by-nd/2.0/)
+md,CC BY-SA 2.0,is licensed via [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
+md,CC BY 4.0,is licensed via [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+md,CC BY-NC 4.0,is licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+md,CC BY-NC-ND 4.0,is licensed via [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+md,CC BY-NC-SA 4.0,is licensed via [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+md,CC BY-ND 4.0,is licensed via [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)
+md,CC BY-SA 4.0,is licensed via [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+md,CC0,is dedicated to the public domain via [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+md,PD,has no known copyright and considered to be in the public domain
+txturl,ARR,is copyrighted with all rights reserved
+txturl,CC BY 2.0,is licensed via CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+txturl,CC BY-NC 2.0,is licensed via CC BY-NC 2.0 (https://creativecommons.org/licenses/by-nc/2.0/)
+txturl,CC BY-NC-ND 2.0,is licensed via CC BY-NC-ND 2.0 (https://creativecommons.org/licenses/by-nc-nd/2.0/)
+txturl,CC BY-NC-SA 2.0,is licensed via CC BY-NC-SA 2.0 (https://creativecommons.org/licenses/by-nc-sa/2.0/)
+txturl,CC BY-ND 2.0,is licensed via CC BY-ND 2.0 (https://creativecommons.org/licenses/by-nd/2.0/)
+txturl,CC BY-SA 2.0,is licensed via CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+txturl,CC BY 4.0,is licensed via CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+txturl,CC BY-NC 4.0,is licensed via CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+txturl,CC BY-NC-ND 4.0,is licensed via CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/)
+txturl,CC BY-NC-SA 4.0,is licensed via CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+txturl,CC BY-ND 4.0,is licensed via CC BY-ND 4.0 (https://creativecommons.org/licenses/by-nd/4.0/)
+txturl,CC BY-SA 4.0,is licensed via CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+txturl,CC0,is dedicated to the public domain via CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+txturl,PD,has no known copyright and considered to be in the public domain
+txt,ARR,is copyrighted with all rights reserved
+txt,CC BY 2.0,is licensed via CC BY 2.0
+txt,CC BY-NC 2.0,is licensed via CC BY-NC 2.0
+txt,CC BY-NC-ND 2.0,is licensed via CC BY-NC-ND 2.0
+txt,CC BY-NC-SA 2.0,is licensed via CC BY-NC-SA 2.0
+txt,CC BY-ND 2.0,is licensed via CC BY-ND 2.0
+txt,CC BY-SA 2.0,is licensed via CC BY-SA 2.0
+txt,CC BY 4.0,is licensed via CC BY 4.0
+txt,CC BY-NC 4.0,is licensed via CC BY-NC 4.0
+txt,CC BY-NC-ND 4.0,is licensed via CC BY-NC-ND 4.0
+txt,CC BY-NC-SA 4.0,is licensed via CC BY-NC-SA 4.0
+txt,CC BY-ND 4.0,is licensed via CC BY-ND 4.0
+txt,CC BY-SA 4.0,is licensed via CC BY-SA 4.0
+txt,CC0,is dedicated to the public domain via CC0
+txt,PD,has no known copyright and considered to be in the public domain
