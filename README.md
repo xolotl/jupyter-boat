@@ -7,7 +7,7 @@ Jupyter BOAT is delivered via a standard [Jupyter Lite demo](https://jupyterlite
 As with my other publications of BOAT, any rights I may have to content, code, and data created by me for Jupyter BOAT are dedicated to the public domain via [CC0 1.0](https://creativecommons.org/public-domain/cc0/). Note that this Jupyter notebook environment as a whole includes works created by others with different intellectual property statuses.
 
 ## Using BOAT
-All BOAT files other than this README.md are located in the [boat folder in this notebook](/boat/). You can modify and work with BOAT's files starting from [the notebook I published](https://xolotl.org/jupyter-boat/) — that's what computational notebooks are for! Or you can visit [the Jupyter BOAT GitHub reposistory](https://github.com/xolotl/jupyter-boat) and review, copy, duplicate, and/or contribute to the project.
+All BOAT files other than this README.md are located in the "boat" folder in this notebook. You can modify and work with BOAT's files starting from [the notebook I published](https://xolotl.org/jupyter-boat/) — that's what computational notebooks are for! Or you can visit [the Jupyter BOAT GitHub reposistory](https://github.com/xolotl/jupyter-boat) and review, copy, duplicate, and/or contribute to the project.
 
 All other files in this notebook are part of the standard [Jupyter Lite demo](https://jupyterlite.github.io/demo) and are only used to deliver BOAT in a Jupyter environment. If you know what you are doing, you can likely also use Jupyter BOAT either in an entirely different computational notebook or some other computing enviroment that supports python.
 
@@ -21,7 +21,7 @@ There are four files in the boat folder in this notebook that enable Jupyter BOA
 ### See BOAT work
 Jupyter BOAT is designed to function without any modifications to demonstrate how it works. Once you see how it works, it is expected that you would at least provide your own list of works for which you want BOAT to generate licensing/attribution statements. If your works include some with intellectual property statuses that are not already in BOAT's IP statements file, you would need to add new statements to ipstatements.csv. If you would need to make changes to the licensing/attribution statements BOAT generates, you might need to adjust its IP statements file, it's output template, or perhaps even the logic in the BOAT python code file.
 
-To see BOAT generate output using the example works already listed in the works.csv file, just do X and Y.
+To see BOAT generate output using the example works already listed in the works.csv file, just <a href="https://xolotl.github.io/jupyter-boat/lab/index.html?path=boat%2Fboat.ipynb" target="_self">open the boat.ipynb in this notebook</a> and choose "Run All Cells" from the notebook's "Run" menu.
 
 ### Use BOAT on your own collection of works
 To use BOAT to generate licensing/attribution statements for your own collection of works, just do X and Y.
@@ -42,4 +42,5 @@ I welcome contributions to BOAT. [Add an issue](https://github.com/xolotl/jupyte
 I welcome your inquiries and input about BOAT: [Add an issue](https://github.com/xolotl/jupyter-boat/issues/new) in the Jupyter BOAT GitHub repository or [contact me](https://xolotl.org/contact/) via my website.
 
 ## Changelog
+1. version 1.1, 19 Dec 2023: Updating README to guide use.
 1. version 1.0, 19 Dec 2023: Initial complete working version
